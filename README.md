@@ -2,16 +2,18 @@
 
 It is a research project in landscape network analysis. In the repository, we try to research on two problems
 
-Topics:
+## Topics:
 
-- [X] Calculating connectivity index on network using python and networkX.
-- [X] Network visualization basing on networks metrics. (To do)
-- [X] Dynamic Programming on given network and find the best path. (To do)
+- [X] 1.Calculating network probable connectivity indexes of different network connection modes derived from "Network Connection Additional Technique" using python and networkX.
+- [X] 2. Visualization of existing network and network with optimized structure.
+- [X] 3. Dynamic Programming on the network with optimized structure and find the best paths for each additional links under hierarchical multi-objective rules.
 
 ## Authur
 
 - Jiake Shen, Current researcher in Tongji University.
 - Wenjia Zhu, Current student in the University of British Columbia.
+- Zhenwei Peng, Professor of Tongji University.
+- Yuncai Wang, Professor of Tongji University.
 
 ## Usage
   - Makefile: make start
