@@ -4,9 +4,9 @@ It is a research project in landscape network analysis. In the repository, we tr
 
 Topics:
 
-- Calculating connectivity index on network using python and networkX.
-- Network visualization basing on networks metrics. (To do)
-- Dynamic Programming on given network and find the best path. (To do)
+- [X] Calculating connectivity index on network using python and networkX.
+- [X] Network visualization basing on networks metrics. (To do)
+- [] Dynamic Programming on given network and find the best path. (To do)
 
 ## Authur
 
