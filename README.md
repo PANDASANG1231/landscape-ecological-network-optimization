@@ -6,7 +6,7 @@ Topics:
 
 - [X] Calculating connectivity index on network using python and networkX.
 - [X] Network visualization basing on networks metrics. (To do)
-- [] Dynamic Programming on given network and find the best path. (To do)
+- [X] Dynamic Programming on given network and find the best path. (To do)
 
 ## Authur
 
