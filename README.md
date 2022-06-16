@@ -1,4 +1,4 @@
-# Simple Landscape Analysis
+# Landscape Ecological Network Optimization
 
 It is a research project in landscape network analysis. In the repository, we try to research on two problems
 
